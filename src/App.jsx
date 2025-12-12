@@ -22,7 +22,7 @@ function App() {
 
       {/* Footer */}
       <footer className="footer">
-        <p>© 2024 Your Name. All rights reserved.</p>
+        <p>© 2025 Hitesh Singh. All rights reserved.</p>
       </footer>
     </div>
   )
