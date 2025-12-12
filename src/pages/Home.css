@@ -1,0 +1,77 @@
+.home {
+  padding: 2rem 3rem;
+}
+
+/* Hero */
+.hero {
+  text-align: center;
+  padding: 4rem 0;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.hero h1 span {
+  color: #e94560;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  color: #aaa;
+  margin-bottom: 1.5rem;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.8rem 2rem;
+  background-color: #e94560;
+  color: white;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: #c73e54;
+}
+
+/* About */
+.about {
+  max-width: 600px;
+  margin: 2rem auto;
+  text-align: center;
+}
+
+.about h2 {
+  margin-bottom: 1rem;
+  color: #e94560;
+}
+
+.about p {
+  color: #ccc;
+}
+
+/* Skills */
+.skills {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.skills h2 {
+  margin-bottom: 1.5rem;
+  color: #e94560;
+}
+
+.skills-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.skill {
+  padding: 0.5rem 1.5rem;
+  background-color: #16213e;
+  border-radius: 20px;
+  border: 1px solid #e94560;
+}
